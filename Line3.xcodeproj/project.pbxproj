@@ -11,6 +11,7 @@
 		C0524C1729A4C7E8002EFB97 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0524C1629A4C7E8002EFB97 /* ContentView.swift */; };
 		C0524C1929A4C7E8002EFB97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0524C1829A4C7E8002EFB97 /* Assets.xcassets */; };
 		C0524C1C29A4C7E8002EFB97 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0524C1B29A4C7E8002EFB97 /* Preview Assets.xcassets */; };
+		C0524C2329A4C86A002EFB97 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0524C2229A4C86A002EFB97 /* Settings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C0524C1629A4C7E8002EFB97 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C0524C1829A4C7E8002EFB97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0524C1B29A4C7E8002EFB97 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C0524C2229A4C86A002EFB97 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C0524C1429A4C7E8002EFB97 /* Line3App.swift */,
 				C0524C1629A4C7E8002EFB97 /* ContentView.swift */,
+				C0524C2229A4C86A002EFB97 /* Settings.swift */,
 				C0524C1829A4C7E8002EFB97 /* Assets.xcassets */,
 				C0524C1A29A4C7E8002EFB97 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0524C2329A4C86A002EFB97 /* Settings.swift in Sources */,
 				C0524C1729A4C7E8002EFB97 /* ContentView.swift in Sources */,
 				C0524C1529A4C7E8002EFB97 /* Line3App.swift in Sources */,
 			);
